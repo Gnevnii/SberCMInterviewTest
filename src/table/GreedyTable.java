@@ -1,5 +1,8 @@
+package table;
+
 import bean.Element;
 import bean.GreedyElement;
+import finder.NearElementsFinder;
 
 import java.util.Collection;
 

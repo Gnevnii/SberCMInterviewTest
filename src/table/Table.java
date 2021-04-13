@@ -1,4 +1,7 @@
+package table;
+
 import bean.Element;
+import finder.NearElementsFinder;
 
 import java.util.Collection;
 

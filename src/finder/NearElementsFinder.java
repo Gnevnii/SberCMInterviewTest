@@ -1,4 +1,7 @@
+package finder;
+
 import bean.Element;
+import table.Table;
 
 import java.util.Collection;
 import java.util.HashSet;

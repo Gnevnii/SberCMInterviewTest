@@ -1,4 +1,6 @@
 import bean.Element;
+import table.GreedyTable;
+import table.Table;
 
 import java.util.Collection;
 
